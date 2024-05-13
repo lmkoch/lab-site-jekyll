@@ -2,24 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: lisakoch_square_white.png
+#   image_circular: true # crops the image to make it circular
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the Machine Learning in Medicine lab at the University of Bern led by [Prof. Lisa Koch](people/). We are part of the Department of Diabetes, Endocrinology, Nutritional Medicine, and Metabolism (UDEM) at the medical faculty, and are affiliated with the Diabetes Center Berne. Our core goal is to develop certifiably safe, reliable and effective data science tools to improve diabetes care. More broadly, we are interested in trustworthy AI methods for biomedical data analysis, including wearable and biomedical images.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div class="row align-items-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logos/Logo_UniBe.png" title="Logo Uni Bern" class="img-fluid " %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logos/Logo_Insel.png" title="Logo Insel" class="img-fluid " %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logos/DCB_long_rgb.png" title="Logo DCB" class="img-fluid " %}
+    </div>
+</div>
+
+
+
+<!-- Machine learning tools for medical data analysis are approaching human-level performance in controlled settings in many applications. However, major hurdles still obstruct the wide adoption of AI in clinical practice. In real-world settings, in particular deep learning algorithms are famously brittle and are known to often fail silently and catastrophically, and AI systems have the potential to cause harm to the patient. For example, a failure to detect hypoglycemia in an AI-assisted artificial pancreas system has serious consequences.
+
+Diabetes care will increasingly rely on diverse complex data sources to address unmet patient needs, and Artificial Intelligence (AI) will play a crucial role in interpreting their complex and interdependent relationships. Our long-term goal is to develop certifiably safe, reliable and effective data science tools to improve patient-specific treatment systems. Toward this goal, we are establishing the necessary data processing and analysis frameworks. -->
+
+<!-- ![Logo UniBe](assets/img/logos/Logo_UniBe.png) -->

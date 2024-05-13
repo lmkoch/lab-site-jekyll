@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching at the University of Tübingen. Courses at the University of Bern will follow soon.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+- Lecture: [Machine Learning I](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4323713&client_id=pr02) (Winter semester 2023/2024)
+- Seminar: [Machine Learning for Medical Image Analysis](https://www.mlmia-unitue.de/teaching/ws22-ml-for-medical-image-analysis-ml4506/) (Winter semester 2022/2023)
+- Seminar: [Machine Learning for Medical Image Analysis](https://www.mlmia-unitue.de/teaching/ws21-ml-for-medical-image-analysis-ml4506/) (Winter semester 2021/2022)
