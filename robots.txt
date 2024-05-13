@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lmkoch.github.io/lab-site-jekyll//sitemap.xml
+Sitemap: www.mlm-lab.ch/sitemap.xml
