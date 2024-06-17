@@ -18,4 +18,10 @@ Applications should include a CV, your transcripts, and a motivation letter. Mem
 
 ### Master thesis projects
 
-- We often have availabilities for student projects. Reach out for specific project ideas if our research interests you! Please include at least your transcripts, and ideally your CV as well, to find a good match.
+We often have availabilities for student projects. Reach out for specific project ideas if our research interests you! Please include at least your transcripts, and ideally your CV as well, to find a good match.
+
+We mostly offer master thesis projects for students at the University of Bern (MSc Artificial Intelligence in Medicine, MSC Biomedical Engineering), but may also consider supervising external students.
+
+Here are some example master thesis projects: 
+- [Neural implicit functions for high-resolution representation of wearable data](/assets/pdf/MSc_Koch_Witthauer_CGM_NeuralFields.pdf)
+- [Deep neural networks for predicting cardiometabolic risk factors from wearable glucose monitors](/assets/pdf/MSc_Koch_Witthauer_CGM_Prediction.pdf)
