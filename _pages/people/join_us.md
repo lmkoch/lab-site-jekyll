@@ -1,1 +1,1 @@
-We are looking for a PhD student for machine learning in medical wearable data. Check out our [open positions](../jobs/)!
+We are looking forward to welcoming our PhD students soon. If you are looking to join our lab as a Master student, check out our [open projects](../jobs/)!

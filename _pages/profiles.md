@@ -26,11 +26,11 @@ profiles:
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
   - align: left
-    image: person_placeholder
-    content: people/join_us.md
+    image: trung_whole_square.png
+    content: people/trungdung_hoang.md
     image_circular: true # crops the image to make it circular
-    # more_info: >
-    #   <p>555 your office number</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
+# - align: left
+#     image: person_placeholder
+#     content: people/join_us.md
+#     image_circular: true # crops the image to make it circular
 ---
