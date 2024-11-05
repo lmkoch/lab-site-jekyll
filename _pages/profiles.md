@@ -29,6 +29,10 @@ profiles:
     image: trung_whole_square.png
     content: people/trungdung_hoang.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    image: tim_square.png
+    content: people/tim_fluehmann.md
+    image_circular: true # crops the image to make it circular
 # - align: left
 #     image: person_placeholder
 #     content: people/join_us.md
