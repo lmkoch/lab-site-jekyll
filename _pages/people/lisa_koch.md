@@ -1,3 +1,6 @@
+Lisa Koch
+---------
+
 I am an assistant professor for data science in diabetes care at the University of Bern, where I am affiliated with the [University of Bern Clinic for Diabetology, Endocrinology, Nutritional Medicine and Metabolism (UDEM)](https://udem.insel.ch/en/teaching-and-research/principals-investigators/translate-to-englisch-prof-dr-lisa-koch) and the [Diabetes Center Berne (DCB)](www.dcberne.ch). My long-term goal is to develop certifiably safe, reliable and effective data science tools for patient-specific treatment systems. I have a background in academic research as well as developing data science products for medical devices, with a strong focus on technology that can ultimately benefit patient health in a safe and trustworthy way.
 
 
