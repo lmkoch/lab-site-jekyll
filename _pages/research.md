@@ -54,7 +54,7 @@ Our research interests include:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/cgm" title="Research area: analysing CGM data" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/research/cgm.png" title="Research area: analysing CGM data" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -69,7 +69,7 @@ Deep learning models typically lack interpretability, thereby posing ethical con
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/kerol_bagnets" title="Research area: interpretable ML" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/research/kerol_bagnets.png" title="Research area: interpretable ML" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <!-- <div class="caption">
