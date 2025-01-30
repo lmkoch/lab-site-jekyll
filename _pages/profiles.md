@@ -34,7 +34,7 @@ profiles:
     content: people/tim_fluehmann.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: person_placeholder.png
+    image: artemii.png
     content: people/artemii_shlychkov.md
     image_circular: true # crops the image to make it circular
 # - align: left
