@@ -31,7 +31,7 @@ Distribution shifts remain a problem for the safe application of regulated medic
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/lisa_subgroups" title="Research area: distribution shift detection" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/research/lisa_subgroups.png" title="Research area: distribution shift detection" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
