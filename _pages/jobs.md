@@ -25,6 +25,7 @@ We often have availabilities for student projects. Reach out for specific projec
 We mostly offer master thesis projects for students at the University of Bern (MSc Artificial Intelligence in Medicine, MSC Biomedical Engineering), but may also consider supervising external students.
 
 Here are some example master thesis projects: 
+- Analysing insulin pump occlusions from patient and wearable data, joint project with industrial partner Ypsomed (reach out for more information)
 - Calibrating neural networks for reliable medical image classification (reach out for more information)
 - Predict image segmentation quality without access to ground truth labels (reach out for more information)
 - [Neural implicit functions for high-resolution representation of wearable data](/assets/pdf/MSc_Koch_Witthauer_CGM_NeuralFields.pdf)

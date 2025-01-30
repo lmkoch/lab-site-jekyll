@@ -33,8 +33,15 @@ profiles:
     image: tim_square.png
     content: people/tim_fluehmann.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    image: person_placeholder
+    content: people/artemii_shlychkov.md
+    image_circular: true # crops the image to make it circular
 # - align: left
 #     image: person_placeholder
 #     content: people/join_us.md
 #     image_circular: true # crops the image to make it circular
 ---
+
+
+<!-- And some text -->
