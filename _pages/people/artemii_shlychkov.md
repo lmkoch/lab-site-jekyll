@@ -1,4 +1,4 @@
-### Artemii Shlychkov
-<!-- ---------------- -->
+Artemii Shlychkov
+----------------
 
-Lab rotation student in the MSc Computational Neuroscience programme at the University of Tübingen.
+Artemii is a lab rotation student from the MSc Computational Neuroscience programme at the University of Tübingen.
