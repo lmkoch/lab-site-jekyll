@@ -34,7 +34,7 @@ profiles:
     content: people/tim_fluehmann.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: person_placeholder.png
+    image: ana_square.png
     content: people/ana_castromarquez.md
     image_circular: true # crops the image to make it circular
   - align: left
