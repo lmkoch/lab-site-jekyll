@@ -33,10 +33,10 @@ profiles:
     image: tim_square.png
     content: people/tim_fluehmann.md
     image_circular: true # crops the image to make it circular
-  - align: left
-    image: ana_square.png
-    content: people/ana_castromarquez.md
-    image_circular: true # crops the image to make it circular
+  # - align: left
+  #   image: ana_square.png
+  #   content: people/ana_castromarquez.md
+  #   image_circular: true # crops the image to make it circular
   - align: left
     image: artemii.png
     content: people/artemii_shlychkov.md
