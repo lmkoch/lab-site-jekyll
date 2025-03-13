@@ -18,8 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to the Machine Learning in Medicine lab at the University of Bern led by [Prof. Lisa Koch](people/). We are part of the Department of Diabetes, Endocrinology, Nutritional Medicine, and Metabolism (UDEM) at the medical faculty, and are affiliated with the Diabetes Center Berne. Our core goal is to develop certifiably safe, reliable and effective data science tools to improve diabetes care. More broadly, we are interested in trustworthy AI methods for biomedical data analysis, including wearable and biomedical images.
-
 
 <div class="row align-items-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,6 +30,10 @@ Welcome to the Machine Learning in Medicine lab at the University of Bern led by
         {% include figure.liquid loading="eager" path="assets/img/logos/DCB_long_rgb.png" title="Logo DCB" class="img-fluid " %}
     </div>
 </div>
+
+
+Welcome to the Machine Learning in Medicine lab at the University of Bern led by [Prof. Lisa Koch](people/). We are part of the Department of Diabetes, Endocrinology, Nutritional Medicine, and Metabolism (UDEM) at the medical faculty, and are affiliated with the Diabetes Center Berne. Our core goal is to develop certifiably safe, reliable and effective data science tools to improve diabetes care and patient care generally. More broadly, we are interested in trustworthy AI methods for biomedical data analysis, including wearable and biomedical images.
+
 
 
 
