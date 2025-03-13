@@ -25,8 +25,8 @@ We often have availabilities for student projects. Reach out for specific projec
 We mostly offer master thesis projects for students at the University of Bern (MSc Artificial Intelligence in Medicine, MSC Biomedical Engineering), but may also consider supervising external students.
 
 Here are some example master thesis projects: 
-- [Risk Controlling Large Language Models for Radiology](/assets/pdf/2025_Koch_Muehlebach_LLM_riskcontrol_radiology_LK) (joint project with the Max Planck Institute for Intelligent Systems, Tübingen Germany)
-- [Population characteristics associated with higher prevalence of insulin pump occlusions in Type 1 Diabetes](/assets/pdf/2025_MSc_Koch_Ypsomed_Occlusion) (joint project with industry partner Ypsomed Diabetes Care)
+- [Risk Controlling Large Language Models for Radiology](/assets/pdf/2025_Koch_Muehlebach_LLM_riskcontrol_radiology_LK.pdf) (joint project with the Max Planck Institute for Intelligent Systems, Tübingen Germany)
+- [Population characteristics associated with higher prevalence of insulin pump occlusions in Type 1 Diabetes](/assets/pdf/2025_MSc_Koch_Ypsomed_Occlusion.pdf) (joint project with industry partner Ypsomed Diabetes Care)
 - Calibrating neural networks for reliable medical image classification (reach out for more information)
 - Predict image segmentation quality without access to ground truth labels (reach out for more information)
 - [Neural implicit functions for high-resolution representation of wearable data](/assets/pdf/MSc_Koch_Witthauer_CGM_NeuralFields.pdf)
