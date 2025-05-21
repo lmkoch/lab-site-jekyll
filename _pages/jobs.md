@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /jobs/
-title: join us
+title: jobs
 description: Open positions.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 
@@ -17,17 +17,3 @@ We currently do not have any open positions. Please check back in soon for addit
 <!-- - [PhD in Machine Learning for Medical Wearable Data](https://ohws.prospective.ch/public/v1/jobs/b5d5c7da-8e4f-4711-a979-b2e91eb761f3)
 
 Applications should include a CV, your transcripts, and a motivation letter. Members of underrepresented groups are particularly encouraged to apply – we value diversity and are excited to receive your application!  -->
-
-### Master thesis projects
-
-We often have availabilities for student projects. Reach out for specific project ideas if our research interests you! Please include at least your transcripts, and ideally your CV as well, to find a good match.
-
-We mostly offer master thesis projects for students at the University of Bern (MSc Artificial Intelligence in Medicine, MSC Biomedical Engineering), but may also consider supervising external students.
-
-Here are some example master thesis projects: 
-- [Risk Controlling Large Language Models for Radiology](/assets/pdf/2025_Koch_Muehlebach_LLM_riskcontrol_radiology_LK.pdf) (joint project with the Max Planck Institute for Intelligent Systems, Tübingen Germany)
-- [Population characteristics associated with higher prevalence of insulin pump occlusions in Type 1 Diabetes](/assets/pdf/2025_MSc_Koch_Ypsomed_Occlusion.pdf) (joint project with industry partner Ypsomed Diabetes Care)
-- Calibrating neural networks for reliable medical image classification (reach out for more information)
-- Predict image segmentation quality without access to ground truth labels (reach out for more information)
-- [Neural implicit functions for high-resolution representation of wearable data](/assets/pdf/MSc_Koch_Witthauer_CGM_NeuralFields.pdf)
-<!-- - [Deep neural networks for predicting cardiometabolic risk factors from wearable glucose monitors](/assets/pdf/MSc_Koch_Witthauer_CGM_Prediction.pdf) -->
