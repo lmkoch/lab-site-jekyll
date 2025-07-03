@@ -44,6 +44,7 @@ We study an alternative approach: using subgroup discovery methods to enrich per
 
 ### Simulation-Based Inference for digital twins in Type 1 Diabetes
 
+
 Type 1 Diabetes (T1D) affects over 9 million people worldwide and requires frequent insulin injections and continuous monitoring of blood glucose levels with wearable continuous glucose monitoring (CGM) devices. The dynamics between glucose, meal intake, and insulin over time can be described by complex physiological models consisting of systems of differential equations, where model parameters (e.g., insulin sensitivity) can be highly patient-specific. Identifying these parameters from observed data enables the creation of a digital twin (DT) of an individual’s metabolic system, supporting treatment planning, prediction, and real-time adaptation.
 
 Parameter estimation in such models is a challenging inverse problem. Existing approaches, such as Markov Chain Monte Carlo (MCMC), are computationally expensive, non-amortized, and often rely on steady-state initial condition assumptions that may not hold in practice. Therefore, we are working on Simulation-Based Inference (SBI) method based on Neural Posterior Estimation (NPE), which enables efficient inference of both physiological parameters and initial conditions. Unlike traditional methods, SBI provides fast, amortized inference and produces full posterior distributions, allowing uncertainty quantification and more reliable decision-making. Future extensions will explore robustness to model misspecification and missing CGM data.
