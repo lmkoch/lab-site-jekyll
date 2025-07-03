@@ -9,17 +9,20 @@ nav_order: 2
 ---
 
 
-Methodological interests in trustworthy AI:
+Methodological interests in trustworthy AI and beyond:
 
 - Interpretable machine learning
 - Performance generalisation and performance prediction
 - Subgroup discovery
+- Bias detection and bias mitigation in medical AI
 - Disentangled representation learning
+- Simulation-based inference for physiological models
 
 Application areas:
 
 - Medical image analysis including for example image classification, segmentation, disease progression modelling
-- Interpretation of Continuous Glucose Monitoring (CGM) data, including for example CGM forecasting and risk factor prediction
+- Digital twins in diabetes
+- Interpretation of Continuous Glucose Monitoring (CGM) data, including for example CGM forecasting
 
 
 Check out some example projects (past and ongoing) below. For a comprehensive list of publications, check out [google scholar](https://scholar.google.com/citations?user=R0iwuiIAAAAJ).
