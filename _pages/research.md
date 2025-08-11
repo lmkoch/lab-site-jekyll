@@ -56,7 +56,7 @@ Parameter estimation in such models is a challenging inverse problem. Existing a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/trung_sbi.png" title="Research area: simulation-based inference in diabetes" class="img-fluid w-50 d-block mx-auto rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/research/sbi_graphical_abstract.png" title="Research area: simulation-based inference in diabetes" class="img-fluid w-50 d-block mx-auto rounded z-depth-1" %}
     </div>
 </div>
 

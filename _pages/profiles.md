@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Our lab is growing. Check our open positions if you are interested in joining!
+description: Check our open positions or advertised student projects if you are interested in joining our lab.
 nav: true
 nav_order: 3
 
@@ -26,7 +26,7 @@ profiles:
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
   - align: left
-    image: trung_whole_square.png
+    image: trung.png
     content: people/trungdung_hoang.md
     image_circular: true # crops the image to make it circular
   - align: left
@@ -38,8 +38,8 @@ profiles:
   #   content: people/ana_castromarquez.md
   #   image_circular: true # crops the image to make it circular
   - align: left
-    image: artemii.png
-    content: people/artemii_shlychkov.md
+    image: samin_square.png
+    content: people/samin_beheshtizavareh.md
     image_circular: true # crops the image to make it circular
 # - align: left
 #     image: person_placeholder
@@ -47,5 +47,11 @@ profiles:
 #     image_circular: true # crops the image to make it circular
 ---
 
+---
+
+Alumni:
+------
+
+* Artemii Shlychkov (2025, lab rotation student)
 
 <!-- And some text -->
