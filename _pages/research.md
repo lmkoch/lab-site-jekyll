@@ -35,6 +35,7 @@ Traditional subgroup analysis, a common practice in medical research, often fall
 
 We study an alternative approach: using subgroup discovery methods to enrich performance analysis. Subgroup discovery methods uncover hidden patterns and systematic groupings beyond traditional metadata, providing deeper and more meaningful insights into AI model performance.  We have many challenges to overcome, in special validation of subgroup discovery, as labels for ground truth inherently do not exist in real data. We argue that subgroup discovery can be an effective and easily implemented tool to enhance the performance validation and monitoring of ML systems in medicine.
 
+Read more and try our interactive visualization in the [blog post](https://subgroup-miccai25.streamlit.app/)!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
