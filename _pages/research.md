@@ -56,11 +56,25 @@ Parameter estimation in such models is a challenging inverse problem. Existing a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/sbi_graphical_abstract.png" title="Research area: simulation-based inference in diabetes" class="img-fluid w-50 d-block mx-auto rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/research/sbi_graphical_abstract.png" title="Research area: simulation-based inference in diabetes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 - {% reference hoang2025simulation --file refs_website.bib %}
+
+### Model monitoring through label-free performance estimation
+
+The performance of classification models can deteriorate significantly between training and deployment data because of distribution shifts. Such shifts may arise for various reasons, for example adopting a model from a different institution or simply over time. For safe clinical deployment, continuous performance monitoring is therefore essential and can anticipate model failures before they affect patients. Ideally, performance is assessed by calculating task-specific metrics such as accuracy, recall, and the area under the receiver operating characteristic curve (AUC). However, this is only possible if the new data is labeled, a costly task which is, especially in the clinical setting, rarely the case. Consequently, performance monitoring becomes a problem of label-free metric estimation.
+Different approaches have emerged to meet this challenge. Some methods use distance metrics to quantify the dataset shift and relate it to changes in the model's accuracy. Others retrain the model on the deployed data with pseudo-labels and sequentially assess the new model's performance on the initial data. Because both groups of methods require additional resources in the form of other labeled datasets and model retraining, confidence-based performance estimation is a promising alternative. Here, the model’s softmax outputs on the target data are leveraged either to estimate accuracy directly or, by comparison with the softmax outputs from the initial data. 
+As these methods are predominantly designed to estimate accuracy, yet in the clinical setting we are also interested in PPV, NPV, and prevalence-independent metrics such as recall, specificity, and AUC, we focus on estimating the confusion matrix and, consequently, all relevant counting metrics. We achieve this for binary classification by designing estimators for PPV and NPV based on the positive and negative class predictions, followed by deriving point estimates for the confusion-matrix elements. Future work will pair our confusion-matrix estimators with calibration and domain-adaptation techniques to guarantee reliable estimates under various distribution shifts.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/research/tim_unsure2025_graphical_abstract.png" title="Research area: postmarket surveillance" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+- {% reference fluehmann2025label --file refs_website.bib %}
 
 
 ### Distribution shift detection for postmarket surveillance of medical AI algorithms
