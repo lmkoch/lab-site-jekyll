@@ -10,11 +10,12 @@ nav_order: 4
 
 ### University of Bern
 
-- Seminar: [Trustworthy AI in Medicine](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ksl.unibe.ch/KSL/kurzansicht%3F8%26stammNr%3D494342%26semester%3DFS2025%26lfdNr%3D0&ved=2ahUKEwjxhoKTlp2LAxUY0wIHHXiDMUUQFnoECBIQAQ&usg=AOvVaw166EzpPD_L9nDOjzXL8rS0) (Spring semester 2025, 494342-FS2025-0)
+- Lecture: [Trustworthy AI in Medicine](https://www.ksl.unibe.ch/KSL/kurzansicht?2&stammNr=494342&semester=FS2026&lfdNr=0) (Spring semester 2026, 494342-FS2026-0, 3 ECTS)
+- Seminar: [Trustworthy AI in Medicine](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ksl.unibe.ch/KSL/kurzansicht%3F8%26stammNr%3D494342%26semester%3DFS2025%26lfdNr%3D0&ved=2ahUKEwjxhoKTlp2LAxUY0wIHHXiDMUUQFnoECBIQAQ&usg=AOvVaw166EzpPD_L9nDOjzXL8rS0) (Spring semester 2025, 494342-FS2025-0, 3 ECTS)
   - Intro lecture: [Trustworthy AI in Medicine](/assets/pdf/teaching_Intro_PUBLIC.pdf) 
   - Syllabus: [List of presented papers](/assets/pdf/teaching_Schedule_public.pdf)
 
-- Master thesis project: Check [this page](/jobs/) if you are interested in a master thesis in our lab!
+- Master thesis project: Check [this page](/students/) if you are interested in a master thesis in our lab!
 
 ### University of Tübingen (2021-2024)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /students/
-title: Master thesis projects
+title: thesis projects
 description: 
 nav: true
 nav_order: 5
@@ -10,7 +10,9 @@ nav_order: 5
 
 <!-- ### Master thesis projects -->
 
-We often have availabilities for student projects. Reach out for specific project ideas if our research interests you! Please include at least your transcripts, and ideally your CV as well, to find a good match.
+**Update: we do not have any additional capacity for supervising Master thesis projects in 2025!**
+
+<!-- We often have availabilities for student projects. Reach out for specific project ideas if our research interests you! Please include at least your transcripts, and ideally your CV as well, to find a good match. -->
 
 We mostly offer master thesis projects for students at the University of Bern (MSc Artificial Intelligence in Medicine, MSC Biomedical Engineering), but may also consider supervising external students.
 
