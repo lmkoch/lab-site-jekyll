@@ -48,23 +48,23 @@ profiles:
 #     content: people/samin_beheshtizavareh.md
 #     image_circular: true # crops the image to make it circular
     - align: left
-      image: person_placeholder
+      image: person_placeholder.png
       content: people/mareen_kalis.md
       image_circular: true # crops the image to make it circular
     - align: left
-      image: person_placeholder
+      image: person_placeholder.png
       content: people/nicolas_wyss.md
       image_circular: true # crops the image to make it circular
     - align: left
-      image: person_placeholder
+      image: person_placeholder.png
       content: people/fabian_hueni.md
       image_circular: true # crops the image to make it circular
     - align: left
-      image: person_placeholder
+      image: person_placeholder.png
       content: people/abdelrahman_faqieh.md
       image_circular: true # crops the image to make it circular
     - align: left
-      image: person_placeholder
+      image: person_placeholder.png
       content: people/jan_suter.md
       image_circular: true # crops the image to make it circular
 
