@@ -64,7 +64,7 @@ profiles:
       content: people/abdelrahman_faqieh.md
       image_circular: true # crops the image to make it circular
     - align: left
-      image: person_placeholder.png
+      image: jan_suter_square.png
       content: people/jan_suter.md
       image_circular: true # crops the image to make it circular
 
