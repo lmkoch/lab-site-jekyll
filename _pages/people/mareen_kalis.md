@@ -1,5 +1,4 @@
 Mareen Kalis
 ----------------
 
-
-Mareen is a Master student in the Biomedical Engineering MSc programme at the University of Bern. She is doing her MSc thesis in the MLM lab starting in the spring semester 2026.
+I’m a Master’s student on the Biomedical Engineering MSc programme at the University of Bern. I am currently working on my MSc thesis in the MLM lab focusing on uncertainty quantification in intrapartum ultrasound analysis. Before starting my Master’s studies, I completed my medical degree at TUM (Munich, Germany) and worked as a resident physician in gynaecology and obstetrics in Visp. 

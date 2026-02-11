@@ -48,7 +48,7 @@ profiles:
 #     content: people/samin_beheshtizavareh.md
 #     image_circular: true # crops the image to make it circular
     - align: left
-      image: person_placeholder.png
+      image: mareen_kalis.png
       content: people/mareen_kalis.md
       image_circular: true # crops the image to make it circular
     - align: left
