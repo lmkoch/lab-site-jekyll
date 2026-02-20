@@ -1,5 +1,4 @@
 Fabian Hüni
 ----------------
 
-
-Fabian is a Master student in the AI in Medicine MSc programme at the University of Bern. He is doing his MSc thesis in the MLM lab starting in the spring semester 2026 jointly with 44ai.
+I am a Master’s student in AI in Medicine at the University of Bern, currently focusing my thesis on uncertainty quantification for structured medical data extraction using LLMs at the MLM Lab jointly with the startup 44ai. I previously earned my Bachelor’s degree in Computer Science as well in Bern.
