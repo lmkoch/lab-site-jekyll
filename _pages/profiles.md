@@ -56,7 +56,7 @@ profiles:
       content: people/nicolas_wyss.md
       image_circular: true # crops the image to make it circular
     - align: left
-      image: person_placeholder.png
+      image: fabian_hueni.png
       content: people/fabian_hueni.md
       image_circular: true # crops the image to make it circular
     - align: left
