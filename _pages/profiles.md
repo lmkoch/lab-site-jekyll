@@ -33,41 +33,16 @@ profiles:
         image: tim_square.png
         content: people/tim_fluehmann.md
         image_circular: true # crops the image to make it circular
-      # - align: left
-      #   image: ana_square.png
-      #   content: people/ana_castromarquez.md
-      #   image_circular: true # crops the image to make it circular
-      - align: left
-        image: julius.png
-        content: people/julius_gervelmeyer.md
-        image_circular: true # crops the image to make it circular
   - title: Master students
     profiles:
-#   - align: left
-#     image: samin_square.png
-#     content: people/samin_beheshtizavareh.md
-#     image_circular: true # crops the image to make it circular
     - align: left
       image: mareen_kalis.png
       content: people/mareen_kalis.md
       image_circular: true # crops the image to make it circular
     - align: left
       image: person_placeholder.png
-      content: people/nicolas_wyss.md
-      image_circular: true # crops the image to make it circular
-    - align: left
-      image: fabian_hueni.png
-      content: people/fabian_hueni.md
-      image_circular: true # crops the image to make it circular
-    - align: left
-      image: person_placeholder.png
       content: people/abdelrahman_faqieh.md
       image_circular: true # crops the image to make it circular
-    - align: left
-      image: jan_suter_square.png
-      content: people/jan_suter.md
-      image_circular: true # crops the image to make it circular
-
 
 # profiles:
 #   # if you want to include more than one profile, just replicate the following block
@@ -124,6 +99,10 @@ profiles:
 Alumni:
 ------
 
+* Nicolas Wyss (2026, master thesis)
+* Fabian Hüni (2026, master thesis)
+* Jan Suter (2026, master thesis)
+* Julius Gervelmeyer (2026, visiting PhD student)
 * Samin Beheshti Zavareh (2025, research assistant) 
 * Artemii Shlychkov (2025, lab rotation student)
 
