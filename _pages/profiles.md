@@ -41,7 +41,7 @@ profiles:
       image_circular: true # crops the image to make it circular
     - align: left
       image: person_placeholder.png
-      content: people/abdelrahman_faqieh.md
+      content: people/olgierd_knurek.md
       image_circular: true # crops the image to make it circular
 
 # profiles:
@@ -101,6 +101,7 @@ Alumni:
 
 * Nicolas Wyss (2026, master thesis)
 * Fabian Hüni (2026, master thesis)
+* Abdelrahman Faqieh (2026, master thesis)
 * Jan Suter (2026, master thesis)
 * Julius Gervelmeyer (2026, visiting PhD student)
 * Samin Beheshti Zavareh (2025, research assistant) 
