@@ -122,7 +122,7 @@ Applications are accepted only via the University of Bern online portal ("Apply"
 
 <details>
   <summary><strong>Should I read something to prepare?</strong></summary>
-  <p>No specific preparation is needed to apply. If you are interested, our <a href="/publications/">publications</a> give a good impression of the lab's research.</p>
+  <p>No specific preparation is needed to apply. If you are interested, our <a href="https://scholar.google.com/citations?hl=en&user=R0iwuiIAAAAJ&view_op=list_works&sortby=pubdate">recent publications</a> give a good impression of the lab's research.</p>
 </details>
 
 <!-- - [PhD in Machine Learning for Medical Wearable Data](https://ohws.prospective.ch/public/v1/jobs/b5d5c7da-8e4f-4711-a979-b2e91eb761f3)
